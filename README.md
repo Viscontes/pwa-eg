@@ -1,2 +1,3 @@
-###Small React Progressive Web App
-###Link: https://viscontes.github.io/pwa-eg/
+### Small React Progressive Web App
+
+### Link: https://viscontes.github.io/pwa-eg/
